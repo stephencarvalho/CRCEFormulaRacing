@@ -1,0 +1,33 @@
+td, th {
+
+	display: table-cell;
+	text-align: left;
+	vertical-align: middle;
+	border-radius: 2px;
+	width: 110px !important;
+    padding: 2px 0px !important;
+}
+.slider
+{
+	position: relative;
+	top: -65px;
+}
+
+.slider .slides li .caption
+{
+	color:blue !important;
+	font-family: 'Erica One', cursive !important;
+	font-weight: bold !important;
+	top:39% !important;
+}
+.parallax-container
+{
+	height: 400px !important;
+}
+
+
+
+
+
+
+

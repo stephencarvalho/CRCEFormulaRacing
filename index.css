@@ -1,0 +1,34 @@
+td, th {
+
+	display: table-cell;
+	text-align: left;
+	vertical-align: middle;
+	border-radius: 2px;
+}
+.slider
+{
+	position: relative;
+	top: -65px;
+}
+.slider .slides
+{
+	height: 500px !important;
+}
+.slider .slides li .caption
+{
+	color:blue !important;
+	font-family: 'Pacifico', cursive;
+	font-weight: bold;
+	top:39% !important;
+}
+.parallax-container
+{
+	height: 400px !important;
+}
+
+
+
+
+
+
+

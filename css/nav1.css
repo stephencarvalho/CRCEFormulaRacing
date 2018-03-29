@@ -1,0 +1,178 @@
+/* ----- social media slider links css start------ */ 
+		.social-roll {
+			background-image: url('../img/social-media-icons/instagram-circle-icon.png');
+			height: 48px;
+			width: 48px;
+			margin: 10px;
+			float: left;
+			border-radius: 50%;
+			-webkit-transition: all ease 0.3s;
+			-moz-transition: all ease 0.3s;
+			-o-transition: all ease 0.3s;
+			-ms-transition: all ease 0.3s;
+			transition: all ease 0.3s;
+		}
+		.social-roll:hover {
+			background-image: url('../img/social-media-icons/instagram-gray-circle-icon.png');
+			box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+			-webkit-transform:rotate(360deg);
+			-moz-transform:rotate(360deg);
+			-o-transform:rotate(360deg);
+			-ms-transform:rotate(360deg);
+			transform:rotate(360deg);
+		}
+		.social-roll1 {
+			background-image: url('../img/social-media-icons/twitter-circle-icon.png');
+			height: 48px;
+			width: 48px;
+			margin: 10px;
+			float: left;
+			border-radius: 50%;
+			-webkit-transition: all ease 0.3s;
+			-moz-transition: all ease 0.3s;
+			-o-transition: all ease 0.3s;
+			-ms-transition: all ease 0.3s;
+			transition: all ease 0.3s;
+		}
+		.social-roll1:hover {
+			background-image: url('../img/social-media-icons/twitter-gray-circle-icon.png');
+			box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+			-webkit-transform:rotate(360deg);
+			-moz-transform:rotate(360deg);
+			-o-transform:rotate(360deg);
+			-ms-transform:rotate(360deg);
+			transform:rotate(360deg);
+		}
+		.social-roll2 {
+			background-image: url('../img/social-media-icons/facebook-circle-icon.png');
+			height: 48px;
+			width: 48px;
+			margin: 10px;
+			float: left;
+			border-radius: 50%;
+			-webkit-transition: all ease 0.3s;
+			-moz-transition: all ease 0.3s;
+			-o-transition: all ease 0.3s;
+			-ms-transition: all ease 0.3s;
+			transition: all ease 0.3s;
+		}
+		.social-roll2:hover {
+			background-image: url('../img/social-media-icons/facebook-gray-circle-icon.png');
+			box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+			-webkit-transform:rotate(360deg);
+			-moz-transform:rotate(360deg);
+			-o-transform:rotate(360deg);
+			-ms-transform:rotate(360deg);
+			transform:rotate(360deg);
+		}
+		.social-roll3 {
+			background-image: url('../img/social-media-icons/pinterest-circle-icon.png');
+			height: 48px;
+			width: 48px;
+			margin: 10px;
+			float: left;
+			border-radius: 50%;
+			-webkit-transition: all ease 0.3s;
+			-moz-transition: all ease 0.3s;
+			-o-transition: all ease 0.3s;
+			-ms-transition: all ease 0.3s;
+			transition: all ease 0.3s;
+		}
+		.social-roll3:hover {
+			background-image: url('../img/social-media-icons/pinterest-gray-circle-icon.png');
+			box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+			-webkit-transform:rotate(360deg);
+			-moz-transform:rotate(360deg);
+			-o-transform:rotate(360deg);
+			-ms-transform:rotate(360deg);
+			transform:rotate(360deg);
+		}
+		.social-roll4 {
+			background-image: url('../img/social-media-icons/linkedin-circle-icon.png');
+			height: 48px;
+			width: 48px;
+			margin: 10px;
+			float: left;
+			border-radius: 50%;
+			-webkit-transition: all ease 0.3s;
+			-moz-transition: all ease 0.3s;
+			-o-transition: all ease 0.3s;
+			-ms-transition: all ease 0.3s;
+			transition: all ease 0.3s;
+		}
+		.social-roll4:hover {
+			background-image: url('../img/social-media-icons/linkedin-gray-circle-icon.png');
+			box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+			-webkit-transform:rotate(360deg);
+			-moz-transform:rotate(360deg);
+			-o-transform:rotate(360deg);
+			-ms-transform:rotate(360deg);
+			transform:rotate(360deg);
+		}
+		.social-roll5 {
+			background-image: url('../img/social-media-icons/blogger-circle-icon.png');
+			height: 48px;
+			width: 48px;
+			margin: 10px;
+			float: left;
+			border-radius: 50%;
+			-webkit-transition: all ease 0.3s;
+			-moz-transition: all ease 0.3s;
+			-o-transition: all ease 0.3s;
+			-ms-transition: all ease 0.3s;
+			transition: all ease 0.3s;
+		}
+		.social-roll5:hover {
+			background-image: url('../img/social-media-icons/blogger-gray-circle-icon.png');
+			box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+			-webkit-transform:rotate(360deg);
+			-moz-transform:rotate(360deg);
+			-o-transform:rotate(360deg);
+			-ms-transform:rotate(360deg);
+			transform:rotate(360deg);
+		}
+		/* ----- social media slider links css end------ */
+		.side-nav ul a:hover {
+			color: black;
+
+		}
+		.side-nav
+		{
+
+			color: black;
+			line-height: 3.5rem; 
+			position: fixed;
+
+
+		}
+		.donate a:hover
+{
+	
+}
+blockquote {
+	margin: 20px 0;
+	padding-left: 1.5rem;
+	border-left: 5px solid rgb(163,29,30) !important;
+}
+nav
+{	
+	background-color:rgba(255,255,255,1) !important;
+	
+}	
+a:link
+{
+	color: rgb(163,29,30);
+}
+a:visited
+{
+	color: rgb(163,29,30);
+}
+a:active
+{
+	color:black;
+}
+a:hover
+{
+	color: black	!important;
+	transition:all ease .3s;
+}
